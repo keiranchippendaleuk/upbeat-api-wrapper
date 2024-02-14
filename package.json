@@ -1,0 +1,28 @@
+{
+  "name": "upbeat-api-wrapper",
+  "version": "1.0.0",
+  "description": "This will get the nowplaying of upbeat and will also get song history and will also get who has booked for that week/day",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keiranchippendaleuk/upbeat-api-wrapper.git"
+  },
+  "keywords": [
+    "upbeat",
+    "api",
+    "wrapper",
+    "nodejs"
+  ],
+  "author": "keiran chippendale (djkeiranyt@proton.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/keiranchippendaleuk/upbeat-api-wrapper/issues"
+  },
+  "homepage": "https://github.com/keiranchippendaleuk/upbeat-api-wrapper#readme",
+  "dependencies": {
+    "axios": "^1.6.7"
+  }
+}
